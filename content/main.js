@@ -47,25 +47,25 @@ export const attributes = {
       {
         btnLink: 'https://behance.com',
         btnText: 'View on Behance',
-        image: '/img/project-2.jpeg',
+        image: '/img/picture-1.jpg',
         title: 'ShopoShopy',
       },
       {
         btnLink: 'https://behance.com',
         btnText: 'View on Behance',
-        image: '/img/project-2.jpeg',
-        title: 'LogoLogy',
+        image: '/img/_DSC0717.jpg',
+        title: 'Photography',
       },
       {
         btnLink: 'https://behance.com',
         btnText: 'View on Behance',
-        image: '/img/project-3.jpeg',
+        image: '/img/picture-3.jpg',
         title: 'SitoSity',
       },
       {
         btnLink: 'https://behance.com',
         btnText: 'View on Behance',
-        image: '/img/project-4.jpeg',
+        image: '/img/picture-2.jpg',
         title: 'DrawoDrawy',
       },
       {
