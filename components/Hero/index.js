@@ -67,13 +67,13 @@ const Hero = ({ data }) => {
               </a>
             </Link>
           )}
-          {social.linkedin.show && (
-            <Link href={social.linkedin.link}>
+          {social.github.show && (
+            <Link href={social.github.link}>
               <a
                 target="_blank"
                 className="mx-2 px-1 text-xl hover:bg-gray-800 rounded-lg"
               >
-                <i className="mdi mdi-linkedin" />
+                <i className="mdi mdi-github" />
               </a>
             </Link>
           )}
