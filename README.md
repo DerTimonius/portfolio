@@ -1,13 +1,4 @@
-# Portfolio CMS
+# Hi!
 
-## Portfolio template, made using Netlify CMS
-
-# Deploy on Netlify
-
-Use `export` as build command
-
-```js
-yarn export
-```
-
-Might as well.
+This is a simple portfolio, with little content.
+But: one of its purposes is to learn so here you go!
