@@ -37,7 +37,6 @@ yarn-error.log*
 *.tsbuildinfo
 *.tsbuildinfo
 *.tsbuildinfo
-
-images
-
 *.tsbuildinfo
+
+/public/img
