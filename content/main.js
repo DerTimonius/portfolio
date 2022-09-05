@@ -9,8 +9,8 @@ export const attributes = {
     image: '/img/hero.jpeg',
     secondButton: { icon: 'whatsapp', link: '/#contact', text: 'Contact' },
     social: {
-      facebook: { link: 'https://facebook.com', show: true },
-      instagram: { link: 'https://instagram.com', show: true },
+      facebook: { link: 'https://facebook.com/timon.jurschitsch', show: true },
+      instagram: { link: 'https://instagram.com/DerTimonius', show: true },
       linkedin: { link: 'https://linkedin.com', show: true },
       github: { link: 'https://github.com/DerTimonius', show: true },
     },
@@ -22,7 +22,7 @@ export const attributes = {
   },
   about: {
     heading: 'Who am I?',
-    image: '/img/about.jpeg',
+    image: '/img/project-5.jpeg',
     text: "I'm a developer who has taken a different route to learn to code. With a special mix of knowledge in web development, photography, psychology and physiology I can create web experiences that are different from your everyday website.\n",
   },
   features: [
@@ -71,7 +71,7 @@ export const attributes = {
       {
         btnLink: 'https://behance.com',
         btnText: 'View on Behance',
-        image: '/img/project-5.jpeg',
+        image: '/img/about.jpeg',
         title: 'PagoPagy',
       },
       {
